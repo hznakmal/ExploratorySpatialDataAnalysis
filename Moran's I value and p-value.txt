@@ -21,3 +21,5 @@ p-value: 0.014
 Winnipeg
 Moran's I value: -0.34351245464294594
 p-value: 0.002
+
+Hafon
